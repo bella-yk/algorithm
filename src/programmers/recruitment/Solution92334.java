@@ -1,4 +1,4 @@
-package programmers;
+package programmers.recruitment;
 
 import java.util.*;
 
